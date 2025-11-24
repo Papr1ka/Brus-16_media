@@ -9,6 +9,8 @@ https://github.com/user-attachments/assets/ead60b62-4a1a-48c9-9a74-c11b8357e0b4
 480P 60 fps, low bitrate
 https://github.com/user-attachments/assets/5c63b0a2-222e-467e-87e9-88916ec096f5
 
+480P 60 fps, low bitrate, fpga preview
+https://github.com/user-attachments/assets/ea047ab2-7efb-48ac-9abb-ca4ed40c0b82
 
 4272x2848
 ![fpga_4272x2848](https://github.com/user-attachments/assets/4ea71673-1c44-44a0-96f8-a758dd2ce846)
