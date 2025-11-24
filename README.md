@@ -25,3 +25,10 @@ Another angle
 
 ![fpga_1920_1280_preview](https://github.com/user-attachments/assets/aebd3025-98c7-45c1-aa13-03975e6fc261)
 
+
+Ping:
+https://github.com/user-attachments/assets/1e40cc49-c51c-4474-aa89-dd89034edd95
+
+Tower:
+https://github.com/user-attachments/assets/afb5e501-f497-4eca-b2d6-a9d5f201da5c
+
