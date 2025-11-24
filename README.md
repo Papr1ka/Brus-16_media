@@ -20,3 +20,8 @@ https://github.com/user-attachments/assets/ea047ab2-7efb-48ac-9abb-ca4ed40c0b82
 
 1280x853
 ![fpga_1280x853](https://github.com/user-attachments/assets/cf865fa2-dac6-4857-b3ee-2584621ab179)
+
+Another angle
+
+![fpga_1920_1280_preview](https://github.com/user-attachments/assets/aebd3025-98c7-45c1-aa13-03975e6fc261)
+
