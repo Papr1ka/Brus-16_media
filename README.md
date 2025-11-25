@@ -3,6 +3,9 @@
 HD 60 fps, low bitrate
 https://github.com/user-attachments/assets/fc8523e4-babf-4235-aff2-f02d6fa1cbf7
 
+HD 60 fps, low bitrate, new
+https://github.com/user-attachments/assets/ac93d727-8e6c-47fd-9cd3-85854dddd4d0
+
 FHD 60 fps
 https://github.com/user-attachments/assets/ead60b62-4a1a-48c9-9a74-c11b8357e0b4
 
